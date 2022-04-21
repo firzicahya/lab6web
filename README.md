@@ -367,3 +367,8 @@ footer {
 .entry .right-img {
     float: right;
 }
+
+
+
+Step 7
+
