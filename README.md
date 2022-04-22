@@ -2,12 +2,17 @@ Membuat layout web dengan menggunakan Twitter Bootsrap
 
 Step 1
 Buka web Bootstrap https://getbootstrap.com kemudian download file tersebut
+
 ![Screenshot (93)](https://user-images.githubusercontent.com/73973590/164745055-4308c30d-f7e3-4e18-8b16-f9ef257191f3.png)
+
 Step 2
 Masukan file yang sudah di download ke  file lab6_css_framework
+
 ![image](https://user-images.githubusercontent.com/73973590/164745494-2b7121e2-0eca-4095-aed8-9e0051e8e37a.png)
+
 Step 3
 Buat file html dengan nama file lab6_css_framework, setelah itu masukan kode bootsrap
+
 <!doctype html>
 <html lang="en">
   <head>
@@ -17,12 +22,10 @@ Buat file html dengan nama file lab6_css_framework, setelah itu masukan kode boo
 
     <!-- Bootstrap CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
-
     <title>Hello, world!</title>
   </head>
   <body>
     <h1>Hello, world!</h1>
-
     <!-- Optional JavaScript; choose one of the two! -->
 
     <!-- Option 1: Bootstrap Bundle with Popper -->
